@@ -33,7 +33,9 @@
       "messages": [
         "Imi place de Teodor",
         "A fost odată ca-n povești,",
-        "Robert este profesionist la dat laba"
+        "Robert este profesionist la dat laba",
+        "Cand eu eram mic voi erati sperma",
+        "Daca ma intalnesc cu voi va cacati pe voi",
       ]
     },
     "chat-log": true,
@@ -60,7 +62,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,8 +71,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
